@@ -1,2 +1,2 @@
 # BlogApp
-Frontend
+Blog App
